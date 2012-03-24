@@ -1,0 +1,11 @@
+﻿## Interface: 40300
+## Author: Mystery
+## Title: |cff777777|rM_Bags
+## Title-zhCN: |cff0055FF背包|r
+## Title-zhTW: |cff0055FF背包|r
+## Notes: Bags
+## Notes-zhCN: |cffbc8f8fMystery的背包|r
+## Notes-zhTW: |cffbc8f8fMystery的背包|r
+## Version: 40300
+
+M_Bags.xml
